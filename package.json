@@ -1,0 +1,16 @@
+{
+  "name": "data-visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "d3": "^4.12.2",
+    "jquery": "^3.2.1"
+  }
+}

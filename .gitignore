@@ -1,0 +1,9 @@
+# DS_store and file settings
+
+.DS_Store
+
+# node_modules
+node_modules/
+
+# data files
+data/
